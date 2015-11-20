@@ -53,9 +53,7 @@ D3。`BI商业智能` `监控系统` `科学研究`
 -----
 <img src="images/mike_bostock.jpg" width="230" height="230">
 
-**Mike Bostock**
-
-@mbostock on Github/Twitter
+**Mike Bostock** [@mbostock](https://twitter.com/mbostock)
 
 * 2005年，Jeff推Prefuse，JavaApplet
 * 2007年，Jeff推Flare，ActionScript
