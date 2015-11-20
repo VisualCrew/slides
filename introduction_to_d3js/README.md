@@ -42,17 +42,18 @@ D3。`BI商业智能` `监控系统` `科学研究`
 
 2.D3.js
 ======
+
+简介
+-----
 根据D3官网的描述，
 
 > D3.js 是基于数据操作文档的JavaScript库，它可以帮助你使用HTML，SVG和CSS生动地展现数据。D3不需要你使用某个特定的框架，它的重点在于对主流浏览器的兼容，同时结合了强大的可视化组件，以数据驱动的方式去操作DOM。
 
-历史
+历史 & 作者
 -----
 <img src="images/mike_bostock.jpg" width="230" height="230">
 
-**Mike Bostock**
-
-@mbostock on Github/Twitter
+**Mike Bostock** [@mbostock](https://twitter.com/mbostock)
 
 * 2005年，Jeff推Prefuse，JavaApplet
 * 2007年，Jeff推Flare，ActionScript
@@ -62,23 +63,20 @@ D3。`BI商业智能` `监控系统` `科学研究`
 具体情况，大家可以去阅读《数据可视化实战: 使用D3设计交互式图表》
 
 项目情况
--------
+--------
 
-API介绍
--------
+关键技术 & SVG
+--------
 
-关键技术
--------
+API
+--------
+
+一些概念
+--------
 
 优缺点
--------
-
-周边
-----
+--------
 
 具体应用
 --------
 
-
-3.社区
-=======
